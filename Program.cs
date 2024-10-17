@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ändring i feature" + Guid.NewGuid());
+            Console.WriteLine("Ändring i main" + DateTime.Now);
         }
     }
 }
